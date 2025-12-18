@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">A Y A N - M D</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">Q U E E N - E L I S A - L I T E</h1>
 </p>
 
 <p align="center">
@@ -8,14 +8,14 @@
 
 <div align="center">
   <a href="https://github.com/ayancodex503/followers"><img title="Followers" src="https://img.shields.io/github/followers/AYAN-MD?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/ayancodex503/AYAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ayancodex503/AYAN-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/ayancodex503/AYAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ayancodex503/AYAN-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/ayancodex503/AYAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/ayancodex503/AYAN-MD?style=for-the-badge&color=FFFF00&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/ayancodex503/AYAN-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/ayancodex503/queen-elisa-lite/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ayancodex503/queen-elisa-lite?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/ayancodex503/queen-elisa-lite/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ayancodex503/queen-elisa-lite?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/ayancodex503/queen-elisa-lite/"><img title="Size" src="https://img.shields.io/github/repo-size/ayancodex503/queen-elisa-lite?style=for-the-badge&color=FFFF00&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/ayancodex503/queen-elisa-lite/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AYAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=queen-elisa-lite&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## DEPLOY NEW VERSION
 
 <p align="center">
-  <a href="https://github.com/ayancodex503/AYAN-MD">
+  <a href="https://github.com/ayancodex503/queen-elisa-lite">
     <img src="https://img.shields.io/badge/_Deploy_From_New-Repo-ff0000?style=for-the-badge&logo=deploy" alt="Deploy" width="300">
   </a>
 </p>
@@ -35,7 +35,7 @@
 ---
 
 <div align="center">
-  <img src="https://o.uguu.se/FonkidoS.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/0xh1qr.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
@@ -43,10 +43,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
 ## 🛰️ Deployment Steps
@@ -55,7 +55,7 @@
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below</p>
-  <a href='https://github.com/ayanmdoz/QUEEN-ELISA/fork' target="_blank">
+  <a href='https://github.com/ayanmdoz/queen-elisa-lite/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -65,23 +65,9 @@
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
-  
---- 
-> **PAIRING LINK (01)**
-  <a href='https://elisa-session.onrender.com' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 10px;"></div>
-  
-> **PAIRiNG LINK (02)**
-  <a href='https://elisa-session.onrender.com' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
-  
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
   </p>
 </div>
@@ -89,7 +75,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 ## 📡 DEPLOYMENT OPTIONS
@@ -97,11 +83,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ayancodex503/AYAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ayancodex503/queen-elisa-lite" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ayanmdoz/QUEEN-ELISA" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ayanmdoz/QUEEN-ELISA-LITE" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -114,7 +100,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/ayancodex503/AYAN-MD" target="_blank">
+      <a href="https://github.com/ayancodex503/queen-elisa-lite" target="_blank">
         <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
       </a>
     </td>
@@ -124,7 +110,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/ayancodex503/AYAN-MD" target="_blank">
+      <a href="https://github.com/ayancodex503/queen-elisa-lite" target="_blank">
         <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -135,7 +121,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/ayancodex503/AYAN-MD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/ayancodex503/queen-elisa-lite/archive/refs/heads/main.zip" target="_blank">
         <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
       </a>
     </td>
@@ -153,7 +139,7 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
 ## 🪀  SUPPORT CHANNEL
@@ -165,7 +151,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+  <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
 ## ⚠️ WARNING !
@@ -176,7 +162,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
 ## 🗃️ PROJECT ARCHITECTS
@@ -187,10 +173,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 A Y A N - M D  S T A T U S
+## 👑 Q U E E N - E L I S A - L I T E -  S T A T U S
 
 ```diff
 + Project Status: Active
@@ -199,5 +185,5 @@
 ```
 
 <div align="center">
-  <img src="https://github.com/ayancodex503/AYAN-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/ayancodex503/queen-elisa-lite/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
