@@ -2,192 +2,226 @@
 
 <div align="center">
 
-https://files.catbox.moe/0xh1qr.jpg
+<img src="https://files.catbox.moe/0xh1qr.jpg" alt="Queen Elisa Banner" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 
-<h2>✨ Powered WhatsApp Bot ✨</h2>
+<h2 style="color: #e91e63;">✨ The Ultimate Female-Powered WhatsApp Bot ✨</h2>
 
 A powerful, elegant WhatsApp bot created by women, for everyone
 
-https://img.shields.io/badge/Version-2.0.0-pink?style=flat-square&logo=github
-https://img.shields.io/badge/Node.js-18+-pink?style=flat-square&logo=nodedotjs
-https://img.shields.io/badge/License-MIT-pink?style=flat-square&logo=opensourceinitiative
-https://img.shields.io/github/stars/ayancodex503/queen-elisa-lite?color=pink&style=flat-square&logo=github
+<div align="center" style="margin: 20px 0;">
 
-💖 Empowering digital communication with feminine energy 💖
+<!-- Badges -->
+
+https://img.shields.io/badge/Version-2.0.0-e91e63?style=for-the-badge&logo=github
+https://img.shields.io/badge/Node.js-18+-e91e63?style=for-the-badge&logo=nodedotjs
+https://img.shields.io/badge/License-MIT-e91e63?style=for-the-badge&logo=opensourceinitiative
+https://img.shields.io/github/stars/ayancodex503/queen-elisa-lite?style=for-the-badge&logo=github&color=e91e63&label=Stars
 
 </div>
 
-🌸 About Queen Elisa
+<!-- Action Buttons -->
 
-Queen Elisa is a WhatsApp bot designed with elegance, power, and feminine energy. She's here to make your digital life easier, more beautiful, and more efficient. Created by a female developer for the community!
+<div align="center" style="margin: 30px 0;">
+  <a href="https://github.com/ayancodex503/queen-elisa-lite/fork">
+    <img src="https://img.shields.io/badge/FORK-REPO-2ea44f?style=for-the-badge&logo=github" alt="Fork">
+  </a>
+  <a href="https://github.com/ayancodex503/queen-elisa-lite/stargazers">
+    <img src="https://img.shields.io/badge/⭐-STAR-e91e63?style=for-the-badge&logo=github" alt="Star">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26">
+    <img src="https://img.shields.io/badge/📢-JOIN_CHANNEL-25D366?style=for-the-badge&logo=whatsapp" alt="Join Channel">
+  </a>
+  <a href="https://wa.me/258833406646">
+    <img src="https://img.shields.io/badge/👑-CONTACT_OWNER-25D366?style=for-the-badge&logo=whatsapp" alt="Contact Owner">
+  </a>
+</div>
 
-💫 Why Queen Elisa?
+<!-- Quick Links -->
 
-· 👑 Elegant Design: Beautiful, user-friendly interface
-· 💪 Girl Power: Built by women, for everyone
-· ✨ Smart Features: Intelligent and intuitive
-· 💝 Community Focus: Made to connect and empower
+<div align="center" style="margin: 20px 0;">
+  <a href="#-features">✨ Features</a> •
+  <a href="#-quick-start">🚀 Quick Start</a> •
+  <a href="#-commands">💬 Commands</a> •
+  <a href="#-support">💖 Support</a>
+</div>
+
+</div>
+
+✨ Features
+
+<div align="center">
+
+Category Features
+🎬 Media Magic TikTok, Facebook, Instagram downloads
+💬 Social Tools Group management, auto-welcome
+🎨 Creative Fancy text, stickers, quotes
+🤖 Smart Calculator, weather, reminders
+👥 Community Tag all, announcements, polls
+
+</div>
 
 🚀 Quick Start
 
+1. Clone the Repository
+
 ```bash
-# Clone with love 💕
 git clone https://github.com/ayancodex503/queen-elisa-lite.git
 cd queen-elisa-lite
-
-# Install with care 💖
-npm install
-
-# Configure your bot
-# Edit config.js with your information
-
-# Start the magic ✨
-npm start
 ```
 
-⚙️ Simple Configuration
+2. Install Dependencies
+
+```bash
+npm install
+```
+
+3. Configure
 
 ```javascript
-// config.js - Simple and elegant
+// Edit config.js
 export default {
   BotName: "👑 Queen Elisa",
-  owner: "258833406646",  // Your number
+  owner: "258833406646",
   nameCreator: "Ayan Codex",
-  mode: "public",  // public/private
-  
-  // Optional settings
-  theme: "pink",  // pink/blue/purple
-  welcomeMessage: "🌸 Welcome to Queen Elisa!"
+  mode: "public"
 };
 ```
 
-💝 What She Can Do
+4. Start the Bot
 
-🎬 Media Magic
-
-· Download TikTok, Facebook, Instagram videos
-· Convert YouTube to audio/video
-· Create beautiful stickers
-· Manage your media collection
-
-💬 Social Butterfly
-
-· Group management made easy
-· Auto-welcome messages
-· Smart tagging
-· Community building tools
-
-🎨 Creative Touch
-
-· Fancy text styles (20+ options!)
-· Image editing
-· Quote generation
-· Beautiful text effects
-
-🤖 Smart Assistant
-
-· Quick information lookup
-· Calculator
-· Weather updates
-· Reminders and alerts
-
-📱 Basic Commands
-
-Essential Commands:
-
-```
-.help      - Show this help message
-.menu      - Display all features
-.ping      - Check if I'm online
-.owner     - Contact my creator
+```bash
+npm start
 ```
 
-Media Commands:
+💬 Popular Commands
+
+<div align="center">
+
+Command Description Example
+.menu Show all commands .menu
+.tiktok Download TikTok .tiktok <url>
+.facebook Download FB .facebook <url>
+.fancy Beautiful text .fancy 5 Hello
+.tagall Mention everyone .tagall
+.owner Contact owner .owner
+
+</div>
+
+🌸 Community Links
+
+<div align="center">
+
+<!-- Big Buttons -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
+
+<a href="https://github.com/ayancodex503/queen-elisa-lite/fork" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/🍴_Fork_This_Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="Fork">
+</a>
+
+<a href="https://github.com/ayancodex503/queen-elisa-lite" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/👩‍💻_View_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+</a>
+
+<a href="https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/📢_Join_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Channel">
+</a>
+
+<a href="https://wa.me/258833406646" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/👑_Contact_Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Owner">
+</a>
+
+<a href="https://github.com/ayancodex503/queen-elisa-lite/issues" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/🐛_Report_Issue-000000?style=for-the-badge&logo=github&logoColor=white" alt="Issues">
+</a>
+
+<a href="https://github.com/ayancodex503/queen-elisa-lite/stargazers" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/⭐_Give_Star-e91e63?style=for-the-badge&logo=github&logoColor=white" alt="Star">
+</a>
+
+</div>
+
+</div>
+
+📁 Project Structure
 
 ```
-.tiktok    - Download TikTok videos
-.facebook  - Download Facebook videos
-.instagram - Download Instagram posts
-.play      - Download music
+queen-elisa-lite/
+├── commands/           # All bot commands
+│   ├── tiktok.js      # TikTok downloader
+│   ├── facebook.js    # Facebook downloader
+│   ├── menu.js        # Menu command
+│   └── ...            # More commands
+├── config.js          # Configuration
+├── handler.js         # Command handler
+└── index.js           # Main file
 ```
 
-Fun Commands:
+💖 Support
 
-```
-.fancy     - Make text beautiful ✨
-.sticker   - Create stickers
-.quote     - Get inspiring quotes
-```
+Need Help?
 
-Group Commands:
+· 📞 Owner: 258833406646
+· 📢 Channel: Join Now
+· 🐛 Issues: GitHub Issues
 
-```
-.tagall    - Mention everyone
-.welcome   - Set welcome message
-.rules     - Display group rules
-```
+How to Support
 
-🌸 Special Features
-
-💕 Girl Power Mode
-
-Queen Elisa has special features designed with women in mind:
-
-· Safe and respectful environment
-· Positive and uplifting messages
-· Community support tools
-· Educational resources
-
-✨ Elegant Design
-
-· Pink-themed interface 🌸
-· Beautiful emoji usage
-· Soft and friendly responses
-· Intuitive user experience
-
-🤝 Join Our Sisterhood
-
-💌 Connect With Us
-
-· Owner: 258833406646
-· GitHub: ayancodex503
-· Channel: Join our community
-
-🌈 Community Values
-
-· Inclusivity: Everyone is welcome
-· Respect: Treat others kindly
-· Support: Help each other grow
-· Empowerment: Lift each other up
-
-💖 Support the Project
-
-If you love Queen Elisa, please:
-
-· ⭐ Star the repository
-· 📢 Share with friends
-· 🐛 Report any issues
-· 💡 Suggest improvements
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. ⭐ Star the repository
+2. 🍴 Fork and contribute
+3. 📢 Share with friends
+4. 💬 Give feedback
 
 ---
 
 <div align="center">
 
-👑 The Queen's Promise
+👑 Join Our Community
 
-"I'm here to make your digital life more beautiful, more efficient, and more fun!"
+Queen Elisa is more than a bot - she's a community!
 
-💖 Made with love by Ayan Codex 💖
+<div style="margin: 30px 0;">
 
-Join our growing family of empowered users!
+Quick Actions
 
-https://img.shields.io/badge/Deploy_Now-Pink?style=for-the-badge&logo=rocket
-https://img.shields.io/badge/Contact_Owner-Pink?style=for-the-badge&logo=whatsapp
+<a href="https://github.com/ayancodex503/queen-elisa-lite/fork">
+  <img src="https://img.shields.io/badge/🍴-FORK_REPO_HERE-000000?style=flat-square&logo=github" alt="Fork">
+</a>
 
-Spread love, not hate. Empower, don't overpower. ✨
+<a href="https://github.com/ayancodex503/queen-elisa-lite">
+  <img src="https://img.shields.io/badge/⭐-STAR_REPO-e91e63?style=flat-square&logo=github" alt="Star">
+</a>
+
+<a href="https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26">
+  <img src="https://img.shields.io/badge/📢-JOIN_CHANNEL-25D366?style=flat-square&logo=whatsapp" alt="Channel">
+</a>
+
+</div>
+
+Made with 💖 by Ayan Codex
+
+<p style="color: #e91e63; font-size: 18px; margin-top: 20px;">
+✨ Empowering digital communication with feminine energy ✨
+</p>
+
+<!-- Footer Buttons -->
+
+<div style="margin-top: 40px; padding: 20px; background: linear-gradient(45deg, #f8bbd9, #f48fb1); border-radius: 10px;">
+
+<h3 style="color: #880e4f;">Ready to Start?</h3>
+
+<a href="https://github.com/ayancodex503/queen-elisa-lite/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/📦-DOWNLOAD_ZIP-4CAF50?style=for-the-badge" alt="Download">
+</a>
+
+<a href="https://github.com/ayancodex503/queen-elisa-lite#quick-start">
+  <img src="https://img.shields.io/badge/🚀-QUICK_START-e91e63?style=for-the-badge" alt="Quick Start">
+</a>
+
+<a href="https://github.com/ayancodex503/queen-elisa-lite/fork">
+  <img src="https://img.shields.io/badge/👩‍💻-FORK_&_CODE-000000?style=for-the-badge&logo=github" alt="Fork & Code">
+</a>
+
+</div>
 
 </div>
