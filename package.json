@@ -1,0 +1,17 @@
+{
+  "name": "QUEEN-ELISA",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot based on Baileys with dynamic command loading and pairing code connection.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^9.0.0",
+    "javascript-obfuscator": "^4.0.0",
+    "axios": "latest"
+  }
+}
